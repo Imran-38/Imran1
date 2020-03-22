@@ -1,0 +1,105 @@
+
+
+
+body{
+	
+
+
+}  
+
+
+/* -------responsive style-------- */
+
+
+/* extra-small-device (phones) */
+
+	@media (max-width: 575px){
+
+
+
+
+	body{background: ;}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+/* small-device (phones) */
+
+@media (min-width: 576px){
+
+
+
+
+body{background: ;}
+
+
+
+
+
+
+
+}
+
+
+
+/* medium devices (tablets) */
+
+@media (min-width: 768px){
+
+
+
+body{background:;}
+
+
+
+
+
+
+	
+}
+
+
+/* Large devices (Desktob) */
+
+@media (min-width: 992px){
+
+
+
+body{background:;}
+
+
+
+
+
+
+	
+}
+
+
+/* Extra-Large devices (Desktob) */
+
+@media (min-width: ){
+
+
+
+
+
+
+
+
+
+
+	
+}
